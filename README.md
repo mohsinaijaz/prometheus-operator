@@ -20,4 +20,4 @@ $ kubectl get pods
 
 $ kubectl get svc
 
-**Make sure that our security groups is open to allow the NodePort 30000 t0 32000**
+**Make sure that our security groups is open to allow the NodePort 30000 to 32000**
